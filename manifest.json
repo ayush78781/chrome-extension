@@ -1,0 +1,6 @@
+{
+    "name": "Building Chrome Extension",
+    "description": "For Changing Backgroung Colour of webpages",
+    "version": "1.0",
+    "manifest_version": 3
+}
