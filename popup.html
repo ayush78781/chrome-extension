@@ -2,12 +2,27 @@
 <html lang="en">
 
 <head>
-    <link rel="stylesheet" href="button.css">
+    <link rel="stylesheet" href="all.css">
 </head>
 
 <body>
     <button id="changeColor"></button>
+    <div id="myDIV" class="header">
+        <h2 style="margin:5px">Your CheckList for today</h2>
+        <input type="text" id="myInput" placeholder="Title...">
+        <span onclick="newElement()" class="addbutton">Add</span>
+    </div>
+
+    <ul id="myUL">
+        <li>Development</li>
+        <li class="checked">Learning OS,COA,DM</li>
+        <li>Contest</li>
+        <li>Coding</li>
+        <li>Learning Tree</li>
+        <li>Assignments Complete</li>
+    </ul>
     <script src="popup.js"></script>
+    <script src="checklist.js"></script>
 </body>
 
 </html>
