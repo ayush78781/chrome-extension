@@ -13,7 +13,7 @@ button.current {
 
 body {
     margin: 0rem;
-    min-width: 250px;
+    width: 350px;
 }
 
 .header {
@@ -52,7 +52,7 @@ input {
     background: #d9d9d9;
     color: #555;
     float: left;
-    text-align: left;
+    text-align: center;
     font-size: 14px;
     cursor: pointer;
     transition: 0.3s;
