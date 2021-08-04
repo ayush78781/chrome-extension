@@ -2,8 +2,8 @@
 Displays your to-do tasklist for the day everytime you are opening a new tab in Google Chrome. Along with this it also changes the background color of the webpages whose URLs starts with <strong>http or https</strong>.
 
 
-![Screenshot](https://github.com/ayush78781/chrome-extension/blob/master/images/dev6-100%3B1.PNG)
-![Screenshot](https://github.com/ayush78781/chrome-extension/blob/master/images/dev6-100%3B2.PNG)
+![Screenshot](https://github.com/ayush78781/chrome-extension/blob/master/images/dev7-100%3B1.PNG)
+![Screenshot](https://github.com/ayush78781/chrome-extension/blob/master/images/dev7-100%3B2.PNG)
 
 ## Installation
 * Fork and clone this project to your local system
